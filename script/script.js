@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 let admin;
 const name = "Джон";
